@@ -1,0 +1,206 @@
+{
+    "state_dimension": [
+        {
+            "State_Code": "TX",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "CA",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "MT",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "WY",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "NM",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "NV",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "CO",
+            "Region": "Unknown"
+        },
+        {
+            "State_Code": "NC",
+            "Region": "Unknown"
+        }
+    ],
+    "gacc_dimension": [
+        {
+            "GACC_Code": "SA",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "NO",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "SO",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "NR",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "RM",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "SW",
+            "GACC_Name": "Unknown"
+        },
+        {
+            "GACC_Code": "WB",
+            "GACC_Name": "Unknown"
+        }
+    ],
+    "time_dimension": [
+        {
+            "Date_ID": 1,
+            "Date": "2008-02-25",
+            "Month": 2,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 2,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 3,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 4,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 5,
+            "Date": "2008-08-21",
+            "Month": 8,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 6,
+            "Date": "2008-06-20",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 7,
+            "Date": "2008-04-30",
+            "Month": 4,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 8,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 9,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 10,
+            "Date": "2008-06-08",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 11,
+            "Date": "2008-07-22",
+            "Month": 7,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 12,
+            "Date": "2008-07-26",
+            "Month": 7,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 13,
+            "Date": "2008-03-14",
+            "Month": 3,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 14,
+            "Date": "2008-03-14",
+            "Month": 3,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 15,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 16,
+            "Date": "2008-06-20",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 17,
+            "Date": "2008-06-20",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 18,
+            "Date": "2008-08-10",
+            "Month": 8,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 19,
+            "Date": "2008-06-18",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 20,
+            "Date": "2008-06-21",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 21,
+            "Date": "2008-06-08",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 22,
+            "Date": "2008-06-04",
+            "Month": 6,
+            "Year": 2008
+        },
+        {
+            "Date_ID": 23,
+            "Date": "2008-06-01",
+            "Month": 6,
+            "Year": 2008
+        }
+    ]
+}
