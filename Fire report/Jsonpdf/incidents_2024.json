@@ -1,0 +1,335 @@
+[
+    {
+        "Name":"Betty's Way",
+        "GACC":"RM",
+        "State":"NE",
+        "Start Date":"2\/26",
+        "Last Report Date":"3\/11",
+        "Size In Acres":"69,810",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Smokehouse Creek",
+        "GACC":"SA",
+        "State":"TX",
+        "Start Date":"2\/26",
+        "Last Report Date":"3\/17",
+        "Size In Acres":"1,054,153",
+        "Cause*":"H"
+    },
+    {
+        "Name":"Catesby",
+        "GACC":"SA",
+        "State":"OK",
+        "Start Date":"2\/27",
+        "Last Report Date":"3\/15",
+        "Size In Acres":"89,688",
+        "Cause*":"H"
+    },
+    {
+        "Name":"McDonald",
+        "GACC":"AK",
+        "State":"AK",
+        "Start Date":"6\/8",
+        "Last Report Date":"7\/20",
+        "Size In Acres":"152,227",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Midnight",
+        "GACC":"AK",
+        "State":"AK",
+        "Start Date":"6\/19",
+        "Last Report Date":"7\/9",
+        "Size In Acres":"52,550",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Grapefruit Complex",
+        "GACC":"AK",
+        "State":"AK",
+        "Start Date":"6\/28",
+        "Last Report Date":"7\/13",
+        "Size In Acres":"89,011",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Falls",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/10",
+        "Last Report Date":"8\/21",
+        "Size In Acres":"151,689",
+        "Cause*":"H"
+    },
+    {
+        "Name":"Cow Valley",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/11",
+        "Last Report Date":"8\/9",
+        "Size In Acres":"133,490",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Lone Rock",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/13",
+        "Last Report Date":"8\/31",
+        "Size In Acres":"137,222",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Boneyard",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/17",
+        "Last Report Date":"7\/25",
+        "Size In Acres":"49,716",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Durkee",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/17",
+        "Last Report Date":"9\/4",
+        "Size In Acres":"294,265",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Battle Mountain\nComplex",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/18",
+        "Last Report Date":"9\/14",
+        "Size In Acres":"183,026",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Monkey Creek",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/18",
+        "Last Report Date":"7\/20",
+        "Size In Acres":"115,269",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Swawilla I",
+        "GACC":"NW",
+        "State":"WA",
+        "Start Date":"7\/18",
+        "Last Report Date":"11\/3",
+        "Size In Acres":"53,462",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Telephone",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/22",
+        "Last Report Date":"8\/21",
+        "Size In Acres":"54,005",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Crazy Creek",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/22",
+        "Last Report Date":"9\/25",
+        "Size In Acres":"86,968",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Big Horn",
+        "GACC":"NW",
+        "State":"WA",
+        "Start Date":"7\/22",
+        "Last Report Date":"7\/30",
+        "Size In Acres":"51,569",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Badland Complex",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/23",
+        "Last Report Date":"8\/14",
+        "Size In Acres":"54,617",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Retreat",
+        "GACC":"NW",
+        "State":"WA",
+        "Start Date":"7\/23",
+        "Last Report Date":"10\/1",
+        "Size In Acres":"45,601",
+        "Cause*":"H"
+    },
+    {
+        "Name":"Park",
+        "GACC":"NO",
+        "State":"CA",
+        "Start Date":"7\/24",
+        "Last Report Date":"9\/25",
+        "Size In Acres":"429,603",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Borel",
+        "GACC":"SO",
+        "State":"CA",
+        "Start Date":"7\/24",
+        "Last Report Date":"9\/14",
+        "Size In Acres":"59,288",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Wapiti",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"7\/24",
+        "Last Report Date":"10\/24",
+        "Size In Acres":"129,063",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Hole In The Ground",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"7\/24",
+        "Last Report Date":"8\/1",
+        "Size In Acres":"98,855",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Paddock",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"8\/5",
+        "Last Report Date":"8\/17",
+        "Size In Acres":"187,185",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Warner Peak",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"8\/5",
+        "Last Report Date":"8\/23",
+        "Size In Acres":"65,866",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Nellie",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"8\/6",
+        "Last Report Date":"8\/8",
+        "Size In Acres":"48,196",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Middle Fork\nComplex",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"8\/8",
+        "Last Report Date":"10\/24",
+        "Size In Acres":"61,496",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Flat Rock",
+        "GACC":"RM",
+        "State":"WY",
+        "Start Date":"8\/21",
+        "Last Report Date":"9\/12",
+        "Size In Acres":"52,421",
+        "Cause*":"U"
+    },
+    {
+        "Name":"House Draw",
+        "GACC":"RM",
+        "State":"WY",
+        "Start Date":"8\/21",
+        "Last Report Date":"9\/12",
+        "Size In Acres":"174,547",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Remington",
+        "GACC":"RM",
+        "State":"WY",
+        "Start Date":"8\/22",
+        "Last Report Date":"9\/19",
+        "Size In Acres":"196,368",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Red Rock",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"9\/2",
+        "Last Report Date":"10\/28",
+        "Size In Acres":"79,260",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Rail Ridge",
+        "GACC":"NW",
+        "State":"OR",
+        "Start Date":"9\/2",
+        "Last Report Date":"10\/31",
+        "Size In Acres":"176,661",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Lava",
+        "GACC":"GB",
+        "State":"ID",
+        "Start Date":"9\/3",
+        "Last Report Date":"10\/24",
+        "Size In Acres":"97,585",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Line",
+        "GACC":"SO",
+        "State":"CA",
+        "Start Date":"9\/4",
+        "Last Report Date":"12\/24",
+        "Size In Acres":"43,978",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Bridge",
+        "GACC":"SO",
+        "State":"CA",
+        "Start Date":"9\/8",
+        "Last Report Date":"12\/29",
+        "Size In Acres":"56,030",
+        "Cause*":"U"
+    },
+    {
+        "Name":"Pack Trail",
+        "GACC":"RM",
+        "State":"WY",
+        "Start Date":"9\/18",
+        "Last Report Date":"11\/2",
+        "Size In Acres":"89,930",
+        "Cause*":"L"
+    },
+    {
+        "Name":"Elk",
+        "GACC":"RM",
+        "State":"WY",
+        "Start Date":"9\/27",
+        "Last Report Date":"11\/14",
+        "Size In Acres":"98,352",
+        "Cause*":"U"
+    }
+]

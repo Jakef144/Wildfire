@@ -1,0 +1,262 @@
+[
+    {
+        "Name":"Old Grouch Top",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/5",
+        "Contain or Last_Report Date":"8\/1",
+        "Size_(acres)":"307,969",
+        "Cause*":"L",
+        "Estimated_Cost":"$61,000"
+    },
+    {
+        "Name":"Frozen Calf",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/24",
+        "Contain or Last_Report Date":"7\/11",
+        "Size_(acres)":"240,543",
+        "Cause*":"L",
+        "Estimated_Cost":"$4,332,806"
+    },
+    {
+        "Name":"Hess Creek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/21",
+        "Contain or Last_Report Date":"8\/1",
+        "Size_(acres)":"189,369",
+        "Cause*":"L",
+        "Estimated_Cost":"$3,005,369"
+    },
+    {
+        "Name":"Swan Lake",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/5",
+        "Contain or Last_Report Date":"10\/2",
+        "Size_(acres)":"167,183",
+        "Cause*":"L",
+        "Estimated_Cost":"$48,101,094"
+    },
+    {
+        "Name":"Bearnose Hill",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/29",
+        "Contain or Last_Report Date":"7\/11",
+        "Size_(acres)":"130,768",
+        "Cause*":"L",
+        "Estimated_Cost":"$2,108,024"
+    },
+    {
+        "Name":"Woodbury",
+        "GACC":"SW",
+        "State":"AZ",
+        "Start_Date":"6\/8",
+        "Contain or Last_Report Date":"7\/5",
+        "Size_(acres)":"123,875",
+        "Cause*":"U",
+        "Estimated_Cost":"$20,000,000"
+    },
+    {
+        "Name":"Sheep",
+        "GACC":"GB",
+        "State":"ID",
+        "Start_Date":"6\/22",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"112,106",
+        "Cause*":"L",
+        "Estimated_Cost":"$710,000"
+    },
+    {
+        "Name":"Black River",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/18",
+        "Contain or Last_Report Date":"8\/8",
+        "Size_(acres)":"107,078",
+        "Cause*":"L",
+        "Estimated_Cost":"$30,000"
+    },
+    {
+        "Name":"North River",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/10",
+        "Contain or Last_Report Date":"7\/21",
+        "Size_(acres)":"101,451",
+        "Cause*":"L",
+        "Estimated_Cost":"$40,000"
+    },
+    {
+        "Name":"Tractor Trail 2",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/22",
+        "Contain or Last_Report Date":"7\/11",
+        "Size_(acres)":"92,628",
+        "Cause*":"L",
+        "Estimated_Cost":"$461,188"
+    },
+    {
+        "Name":"Hurst Creek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/22",
+        "Contain or Last_Report Date":"7\/4",
+        "Size_(acres)":"85,261",
+        "Cause*":"L",
+        "Estimated_Cost":"$231,175"
+    },
+    {
+        "Name":"Little Crazy\nMountain",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/21",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"79,953",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Little Mud River",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/21",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"79,675",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Kincade",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"10\/23",
+        "Contain or Last_Report Date":"11\/7",
+        "Size_(acres)":"77,758",
+        "Cause*":"U",
+        "Estimated_Cost":"$77,144,684"
+    },
+    {
+        "Name":"Smith Creek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/30",
+        "Contain or Last_Report Date":"8\/2",
+        "Size_(acres)":"71,815",
+        "Cause*":"H",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Pothole",
+        "GACC":"GB",
+        "State":"ID",
+        "Start_Date":"8\/6",
+        "Contain or Last_Report Date":"8\/8",
+        "Size_(acres)":"69,704",
+        "Cause*":"H",
+        "Estimated_Cost":"$600,000"
+    },
+    {
+        "Name":"Hadweenzic River",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/22",
+        "Contain or Last_Report Date":"7\/19",
+        "Size_(acres)":"62,068",
+        "Cause*":"L",
+        "Estimated_Cost":"$5,004,308"
+    },
+    {
+        "Name":"Walker",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/16",
+        "Contain or Last_Report Date":"9\/25",
+        "Size_(acres)":"54,608",
+        "Cause*":"U",
+        "Estimated_Cost":"$35,600,000"
+    },
+    {
+        "Name":"Wilderness",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/20",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"53,411",
+        "Cause*":"L",
+        "Estimated_Cost":"$60,000"
+    },
+    {
+        "Name":"Foraker",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/26",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"49,980",
+        "Cause*":"L",
+        "Estimated_Cost":"$203,477"
+    },
+    {
+        "Name":"Grouse Creek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"7\/10",
+        "Contain or Last_Report Date":"8\/7",
+        "Size_(acres)":"49,533",
+        "Cause*":"L",
+        "Estimated_Cost":"$2,000,000"
+    },
+    {
+        "Name":"Page Mountain",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/22",
+        "Contain or Last_Report Date":"8\/1",
+        "Size_(acres)":"46,897",
+        "Cause*":"L",
+        "Estimated_Cost":"$394,900"
+    },
+    {
+        "Name":"Williams Flatt",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"8\/2",
+        "Contain or Last_Report Date":"8\/24",
+        "Size_(acres)":"44,446",
+        "Cause*":"L",
+        "Estimated_Cost":"$19,432,000"
+    },
+    {
+        "Name":"Bergman Creek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/21",
+        "Contain or Last_Report Date":"7\/25",
+        "Size_(acres)":"42,300",
+        "Cause*":"L",
+        "Estimated_Cost":"$1,233,004"
+    },
+    {
+        "Name":"Sawgrass",
+        "GACC":"SA",
+        "State":"FL",
+        "Start_Date":"6\/23",
+        "Contain or Last_Report Date":"6\/27",
+        "Size_(acres)":"42,000",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Cold Creek",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"7\/18",
+        "Contain or Last_Report Date":"7\/21",
+        "Size_(acres)":"41,920",
+        "Cause*":"U",
+        "Estimated_Cost":"$900,000"
+    }
+]

@@ -1,0 +1,95 @@
+{
+    "state_dimension": [
+        {
+            "State_ID": 1,
+            "State": "AK"
+        },
+        {
+            "State_ID": 2,
+            "State": "AZ"
+        },
+        {
+            "State_ID": 3,
+            "State": "CA"
+        },
+        {
+            "State_ID": 4,
+            "State": "ID"
+        },
+        {
+            "State_ID": 5,
+            "State": "OR"
+        },
+        {
+            "State_ID": 6,
+            "State": "WA"
+        }
+    ],
+    "gacc_dimension": [
+        {
+            "GACC_ID": 1,
+            "GACC": "AK"
+        },
+        {
+            "GACC_ID": 2,
+            "GACC": "NO"
+        },
+        {
+            "GACC_ID": 3,
+            "GACC": "NR"
+        },
+        {
+            "GACC_ID": 4,
+            "GACC": "NW"
+        },
+        {
+            "GACC_ID": 5,
+            "GACC": "SW"
+        }
+    ],
+    "inc_type_dimension": [],
+    "cause_dimension": [
+        {
+            "Cause_ID": 1,
+            "Cause": "H"
+        },
+        {
+            "Cause_ID": 2,
+            "Cause": "L"
+        }
+    ],
+    "time_dimension": [
+        {
+            "Date_ID": 1,
+            "Date": "4/19"
+        },
+        {
+            "Date_ID": 2,
+            "Date": "5/19"
+        },
+        {
+            "Date_ID": 3,
+            "Date": "7/12"
+        },
+        {
+            "Date_ID": 4,
+            "Date": "7/14"
+        },
+        {
+            "Date_ID": 5,
+            "Date": "8/14"
+        },
+        {
+            "Date_ID": 6,
+            "Date": "8/2"
+        },
+        {
+            "Date_ID": 7,
+            "Date": "8/3"
+        },
+        {
+            "Date_ID": 8,
+            "Date": "9/13"
+        }
+    ]
+}

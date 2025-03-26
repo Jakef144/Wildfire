@@ -1,0 +1,80 @@
+{
+    "state_dimension": [
+        {
+            "State_ID": 1,
+            "State": "AK"
+        },
+        {
+            "State_ID": 2,
+            "State": "ID"
+        },
+        {
+            "State_ID": 3,
+            "State": "UT"
+        }
+    ],
+    "gacc_dimension": [
+        {
+            "GACC_ID": 1,
+            "GACC": "AK"
+        },
+        {
+            "GACC_ID": 2,
+            "GACC": "EB"
+        }
+    ],
+    "inc_type_dimension": [
+        {
+            "Inc_Type_ID": 1,
+            "Inc_Type": "WF"
+        }
+    ],
+    "cause_dimension": [
+        {
+            "Cause_ID": 1,
+            "Cause": "H"
+        },
+        {
+            "Cause_ID": 2,
+            "Cause": "L"
+        }
+    ],
+    "time_dimension": [
+        {
+            "Date_ID": 1,
+            "Date": "13-Jul-10"
+        },
+        {
+            "Date_ID": 2,
+            "Date": "16-May-10"
+        },
+        {
+            "Date_ID": 3,
+            "Date": "18-May-10"
+        },
+        {
+            "Date_ID": 4,
+            "Date": "2-Jun-10"
+        },
+        {
+            "Date_ID": 5,
+            "Date": "20-Jul-10"
+        },
+        {
+            "Date_ID": 6,
+            "Date": "21-Aug-10"
+        },
+        {
+            "Date_ID": 7,
+            "Date": "25-Jun-10"
+        },
+        {
+            "Date_ID": 8,
+            "Date": "29-May-10"
+        },
+        {
+            "Date_ID": 9,
+            "Date": "31-May-10"
+        }
+    ]
+}

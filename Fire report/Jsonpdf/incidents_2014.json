@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Buzzard Complex",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "7/14",
+        "Last_Report_Date": "9/11",
+        "Size In_Acres": "395,747",
+        "Cause*": "L",
+        "Estimated_Cost": "$11,062,411"
+    },
+    {
+        "Name": "Carlton Complex",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "7/14",
+        "Last_Report_Date": "8/28",
+        "Size In_Acres": "256,108",
+        "Cause*": "L",
+        "Estimated_Cost": "$68,800,000"
+    },
+    {
+        "Name": "Funny River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "5/19",
+        "Last_Report_Date": "8/14",
+        "Size In_Acres": "195,858",
+        "Cause*": "H",
+        "Estimated_Cost": "$11,496,627"
+    },
+    {
+        "Name": "Happy Camp Complex",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "8/14",
+        "Last_Report_Date": "12/4",
+        "Size In_Acres": "134,056",
+        "Cause*": "L",
+        "Estimated_Cost": "$88,214,725"
+    },
+    {
+        "Name": "King",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "9/13",
+        "Last_Report_Date": "10/9",
+        "Size In_Acres": "97,717",
+        "Cause*": "H",
+        "Estimated_Cost": "$119,000,000"
+    },
+    {
+        "Name": "Skunk",
+        "GACC": "SW",
+        "State": "AZ",
+        "Start_Date": "4/19",
+        "Last_Report_Date": "6/26",
+        "Size In_Acres": "73,622",
+        "Cause*": "L",
+        "Estimated_Cost": "$1,800,000"
+    },
+    {
+        "Name": "Big Cougar",
+        "GACC": "NR",
+        "State": "ID",
+        "Start_Date": "8/2",
+        "Last_Report_Date": "8/22",
+        "Size In_Acres": "65,227",
+        "Cause*": "L",
+        "Estimated_Cost": "$4,500,000"
+    },
+    {
+        "Name": "July Complex",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "8/3",
+        "Last_Report_Date": "9/25",
+        "Size In_Acres": "50,042",
+        "Cause*": "L",
+        "Estimated_Cost": "$50,295,981"
+    },
+    {
+        "Name": "Shaniko Butte",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "7/12",
+        "Last_Report_Date": "9/25",
+        "Size In_Acres": "42,044",
+        "Cause*": "L",
+        "Estimated_Cost": "$5,200,000"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Name": "Rim",
+        "GACC": "SO",
+        "State": "CA",
+        "Start_Date": "8/17",
+        "Last_Report_Date": "10/24",
+        "Size In_Acres": "257,314",
+        "Cause*": "U",
+        "Estimated_Cost": "$127,350,000"
+    },
+    {
+        "Name": "Lime Hills",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "5/31",
+        "Last_Report_Date": "8/29",
+        "Size In_Acres": "201,808",
+        "Cause*": "L",
+        "Estimated_Cost": "$2,883,457"
+    },
+    {
+        "Name": "Moore Creek",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/2",
+        "Last_Report_Date": "8/29",
+        "Size In_Acres": "157,747",
+        "Cause*": "L",
+        "Estimated_Cost": "$371,499"
+    },
+    {
+        "Name": "Pony Complex",
+        "GACC": "EB",
+        "State": "ID",
+        "Start_Date": "8/9",
+        "Last_Report_Date": "8/19",
+        "Size In_Acres": "149,384",
+        "Cause*": "L",
+        "Estimated_Cost": "$4,000,000"
+    },
+    {
+        "Name": "Silver",
+        "GACC": "SW",
+        "State": "NM",
+        "Start_Date": "6/7",
+        "Last_Report_Date": "9/10",
+        "Size In_Acres": "138,546",
+        "Cause*": "L",
+        "Estimated_Cost": "$14,300,000"
+    },
+    {
+        "Name": "Elk Complex",
+        "GACC": "EB",
+        "State": "ID",
+        "Start_Date": "8/9",
+        "Last_Report_Date": "8/31",
+        "Size In_Acres": "131,258",
+        "Cause*": "L",
+        "Estimated_Cost": "$10,720,000"
+    },
+    {
+        "Name": "Beaver Creek",
+        "GACC": "EB",
+        "State": "ID",
+        "Start_Date": "8/7",
+        "Last_Report_Date": "9/2",
+        "Size In_Acres": "111,490",
+        "Cause*": "L",
+        "Estimated_Cost": "$26,500,000"
+    },
+    {
+        "Name": "West Fork Complex",
+        "GACC": "RM",
+        "State": "CO",
+        "Start_Date": "6/5",
+        "Last_Report_Date": "10/31",
+        "Size In_Acres": "109,615",
+        "Cause*": "L",
+        "Estimated_Cost": "$31,261,047"
+    },
+    {
+        "Name": "Stuart Creek #2",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "8/23",
+        "Size In_Acres": "87,064",
+        "Cause*": "H",
+        "Estimated_Cost": "$20,984,698"
+    },
+    {
+        "Name": "Colockum Tarps",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "7/27",
+        "Last_Report_Date": "8/18",
+        "Size In_Acres": "80,184",
+        "Cause*": "H",
+        "Estimated_Cost": "$11,000,000"
+    },
+    {
+        "Name": "Mississippi",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "5/30",
+        "Last_Report_Date": "11/2",
+        "Size In_Acres": "67,338",
+        "Cause*": "H",
+        "Estimated_Cost": "$5,220,000"
+    },
+    {
+        "Name": "Beaver Log Lakes",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/22",
+        "Last_Report_Date": "8/28",
+        "Size In_Acres": "64,499",
+        "Cause*": "L",
+        "Estimated_Cost": "$1,847,258"
+    },
+    {
+        "Name": "Prospect Creek",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/20",
+        "Last_Report_Date": "9/3",
+        "Size In_Acres": "64,078",
+        "Cause*": "L",
+        "Estimated_Cost": "$98,377"
+    },
+    {
+        "Name": "Sandless Lake",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/25",
+        "Last_Report_Date": "9/3",
+        "Size In_Acres": "62,318",
+        "Cause*": "L",
+        "Estimated_Cost": "$10,000"
+    },
+    {
+        "Name": "Sunnyside Turnoff",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "7/20",
+        "Last_Report_Date": "9/3",
+        "Size In_Acres": "51,340",
+        "Cause*": "H",
+        "Estimated_Cost": "$4,000,000"
+    },
+    {
+        "Name": "Douglas Complex",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "7/26",
+        "Last_Report_Date": "10/18",
+        "Size In_Acres": "48,679",
+        "Cause*": "L",
+        "Estimated_Cost": "$55,000,000"
+    },
+    {
+        "Name": "Sulatna River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "8/28",
+        "Size In_Acres": "47,588",
+        "Cause*": "L",
+        "Estimated_Cost": "$7,000"
+    },
+    {
+        "Name": "Chisana River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "5/31",
+        "Last_Report_Date": "10/23",
+        "Size In_Acres": "46,638",
+        "Cause*": "L",
+        "Estimated_Cost": "$35,776"
+    },
+    {
+        "Name": "Owyhee",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "7/1",
+        "Last_Report_Date": "7/8",
+        "Size In_Acres": "46,559",
+        "Cause*": "L",
+        "Estimated_Cost": "$1,843,801"
+    },
+    {
+        "Name": "Gold Pan Complex",
+        "GACC": "NR",
+        "State": "MT",
+        "Start_Date": "7/16",
+        "Last_Report_Date": "10/3",
+        "Size In_Acres": "43,429",
+        "Cause*": "L",
+        "Estimated_Cost": "$11,860,878"
+    }
+]

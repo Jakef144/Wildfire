@@ -1,0 +1,342 @@
+[
+    {
+        "Name":"August Complex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/17",
+        "Contain or Last_Report Date":"11\/11",
+        "Size_(acres)":"1,032,648",
+        "Cause*":"U",
+        "Estimated_Cost":"$115,511,218"
+    },
+    {
+        "Name":"SCU Lightning\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/16",
+        "Contain or Last_Report Date":"9\/14",
+        "Size_(acres)":"396,624",
+        "Cause*":"U",
+        "Estimated_Cost":"$69,412,351"
+    },
+    {
+        "Name":"SHF Elkhorn",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/29",
+        "Contain or Last_Report Date":"9\/9",
+        "Size_(acres)":"391,493",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Creek",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"9\/4",
+        "Contain or Last_Report Date":"12\/17",
+        "Size_(acres)":"379,895",
+        "Cause*":"U",
+        "Estimated_Cost":"$193,000,000"
+    },
+    {
+        "Name":"LNU Lightning\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/17",
+        "Contain or Last_Report Date":"10\/1",
+        "Size_(acres)":"363,220",
+        "Cause*":"U",
+        "Estimated_Cost":"$94,646,381"
+    },
+    {
+        "Name":"North Complex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/17",
+        "Contain or Last_Report Date":"12\/2",
+        "Size_(acres)":"318,935",
+        "Cause*":"U",
+        "Estimated_Cost":"$112,711,950"
+    },
+    {
+        "Name":"Pearl Hill",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"9\/7",
+        "Contain or Last_Report Date":"9\/15",
+        "Size_(acres)":"223,730",
+        "Cause*":"U",
+        "Estimated_Cost":"$4,241,353"
+    },
+    {
+        "Name":"Cameron Peak",
+        "GACC":"RM",
+        "State":"CO",
+        "Start_Date":"8\/13",
+        "Contain or Last_Report Date":"12\/4",
+        "Size_(acres)":"208,913",
+        "Cause*":"U",
+        "Estimated_Cost":"$133,300,000"
+    },
+    {
+        "Name":"Lionshead",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"8\/16",
+        "Contain or Last_Report Date":"11\/12",
+        "Size_(acres)":"204,469",
+        "Cause*":"L",
+        "Estimated_Cost":"$65,440,000"
+    },
+    {
+        "Name":"East Troublesome",
+        "GACC":"RM",
+        "State":"WY",
+        "Start_Date":"10\/14",
+        "Contain or Last_Report Date":"11\/25",
+        "Size_(acres)":"193,812",
+        "Cause*":"U",
+        "Estimated_Cost":"$15,682,681"
+    },
+    {
+        "Name":"Beachie Creek",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"8\/16",
+        "Contain or Last_Report Date":"10\/28",
+        "Size_(acres)":"193,573",
+        "Cause*":"U",
+        "Estimated_Cost":"$29,838,526"
+    },
+    {
+        "Name":"Bush",
+        "GACC":"SW",
+        "State":"AZ",
+        "Start_Date":"6\/13",
+        "Contain or Last_Report Date":"7\/3",
+        "Size_(acres)":"193,455",
+        "Cause*":"H",
+        "Estimated_Cost":"$11,642,634"
+    },
+    {
+        "Name":"Cold Springs",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"9\/6",
+        "Contain or Last_Report Date":"9\/19",
+        "Size_(acres)":"189,923",
+        "Cause*":"U",
+        "Estimated_Cost":"$3,917,998"
+    },
+    {
+        "Name":"Mullen",
+        "GACC":"RM",
+        "State":"WY",
+        "Start_Date":"9\/17",
+        "Contain or Last_Report Date":"12\/10",
+        "Size_(acres)":"176,878",
+        "Cause*":"U",
+        "Estimated_Cost":"$42,400,000"
+    },
+    {
+        "Name":"Castle",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"8\/19",
+        "Contain or Last_Report Date":"8\/24",
+        "Size_(acres)":"174,178",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"SQF Complex",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"8\/24",
+        "Contain or Last_Report Date":"12\/17",
+        "Size_(acres)":"174,178",
+        "Cause*":"",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"Holiday Farm",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"9\/7",
+        "Contain or Last_Report Date":"10\/27",
+        "Size_(acres)":"173,393",
+        "Cause*":"U",
+        "Estimated_Cost":"$29,100,932"
+    },
+    {
+        "Name":"Slater",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"9\/8",
+        "Contain or Last_Report Date":"11\/15",
+        "Size_(acres)":"157,270",
+        "Cause*":"U",
+        "Estimated_Cost":"$55,043,900"
+    },
+    {
+        "Name":"Red Salmon\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"7\/28",
+        "Contain or Last_Report Date":"11\/16",
+        "Size_(acres)":"144,698",
+        "Cause*":"L",
+        "Estimated_Cost":"NR"
+    },
+    {
+        "Name":"August Complex\nWest Zone",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"9\/10",
+        "Contain or Last_Report Date":"10\/14",
+        "Size_(acres)":"140,944",
+        "Cause*":"L",
+        "Estimated_Cost":"$115,300,000"
+    },
+    {
+        "Name":"Pine Gulch",
+        "GACC":"RM",
+        "State":"CO",
+        "Start_Date":"7\/31",
+        "Contain or Last_Report Date":"9\/22",
+        "Size_(acres)":"139,007",
+        "Cause*":"U",
+        "Estimated_Cost":"$35,000,000"
+    },
+    {
+        "Name":"Riverside",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"9\/8",
+        "Contain or Last_Report Date":"11\/26",
+        "Size_(acres)":"138,054",
+        "Cause*":"H",
+        "Estimated_Cost":"$20,482,000"
+    },
+    {
+        "Name":"Archie Creek",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"9\/8",
+        "Contain or Last_Report Date":"11\/26",
+        "Size_(acres)":"131,542",
+        "Cause*":"U",
+        "Estimated_Cost":"$40,000,000"
+    },
+    {
+        "Name":"Whitney",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"9\/7",
+        "Contain or Last_Report Date":"9\/15",
+        "Size_(acres)":"127,430",
+        "Cause*":"U",
+        "Estimated_Cost":"$3,300,000"
+    },
+    {
+        "Name":"Dolan",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"8\/18",
+        "Contain or Last_Report Date":"12\/24",
+        "Size_(acres)":"124,924",
+        "Cause*":"U",
+        "Estimated_Cost":"$74,000,000"
+    },
+    {
+        "Name":"Bighorn",
+        "GACC":"SW",
+        "State":"AZ",
+        "Start_Date":"6\/5",
+        "Contain or Last_Report Date":"7\/22",
+        "Size_(acres)":"119,978",
+        "Cause*":"L",
+        "Estimated_Cost":"$44,463,612"
+    },
+    {
+        "Name":"Bobcat",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"9\/6",
+        "Contain or Last_Report Date":"11\/27",
+        "Size_(acres)":"115,997",
+        "Cause*":"U",
+        "Estimated_Cost":"$100,000,000"
+    },
+    {
+        "Name":"Woodhead",
+        "GACC":"GB",
+        "State":"ID",
+        "Start_Date":"9\/7",
+        "Contain or Last_Report Date":"10\/22",
+        "Size_(acres)":"96,614",
+        "Cause*":"H",
+        "Estimated_Cost":"$11,230,000"
+    },
+    {
+        "Name":"Badger",
+        "GACC":"GB",
+        "State":"ID",
+        "Start_Date":"9\/12",
+        "Contain or Last_Report Date":"10\/10",
+        "Size_(acres)":"90,143",
+        "Cause*":"U",
+        "Estimated_Cost":"$15,800,000"
+    },
+    {
+        "Name":"East Fork",
+        "GACC":"GB",
+        "State":"UT",
+        "Start_Date":"8\/21",
+        "Contain or Last_Report Date":"11\/19",
+        "Size_(acres)":"90,000",
+        "Cause*":"L",
+        "Estimated_Cost":"$23,523,403"
+    },
+    {
+        "Name":"CZU August\nLightning",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/16",
+        "Contain or Last_Report Date":"9\/21",
+        "Size_(acres)":"86,509",
+        "Cause*":"U",
+        "Estimated_Cost":"$55,900,466"
+    },
+    {
+        "Name":"W-5 Cold Springs",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/18",
+        "Contain or Last_Report Date":"9\/13",
+        "Size_(acres)":"84,817",
+        "Cause*":"U",
+        "Estimated_Cost":"$10,300,000"
+    },
+    {
+        "Name":"July Complex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"7\/22",
+        "Contain or Last_Report Date":"8\/18",
+        "Size_(acres)":"83,261",
+        "Cause*":"U",
+        "Estimated_Cost":"$35,000,000"
+    },
+    {
+        "Name":"Caldwall",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"7\/22",
+        "Contain or Last_Report Date":"7\/24",
+        "Size_(acres)":"80,859",
+        "Cause*":"U",
+        "Estimated_Cost":"$34,500,000"
+    }
+]

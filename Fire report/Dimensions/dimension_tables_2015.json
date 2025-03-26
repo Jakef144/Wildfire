@@ -1,0 +1,155 @@
+{
+    "state_dimension": [
+        {
+            "State_ID": 1,
+            "State": "AK"
+        },
+        {
+            "State_ID": 2,
+            "State": "CA"
+        },
+        {
+            "State_ID": 3,
+            "State": "ID"
+        },
+        {
+            "State_ID": 4,
+            "State": "MT"
+        },
+        {
+            "State_ID": 5,
+            "State": "OR"
+        },
+        {
+            "State_ID": 6,
+            "State": "WA"
+        }
+    ],
+    "gacc_dimension": [
+        {
+            "GACC_ID": 1,
+            "GACC": "AK"
+        },
+        {
+            "GACC_ID": 2,
+            "GACC": "GB"
+        },
+        {
+            "GACC_ID": 3,
+            "GACC": "NO"
+        },
+        {
+            "GACC_ID": 4,
+            "GACC": "NR"
+        },
+        {
+            "GACC_ID": 5,
+            "GACC": "NW"
+        },
+        {
+            "GACC_ID": 6,
+            "GACC": "SO"
+        }
+    ],
+    "inc_type_dimension": [],
+    "cause_dimension": [
+        {
+            "Cause_ID": 1,
+            "Cause": "H"
+        },
+        {
+            "Cause_ID": 2,
+            "Cause": "L"
+        },
+        {
+            "Cause_ID": 3,
+            "Cause": "U"
+        }
+    ],
+    "time_dimension": [
+        {
+            "Date_ID": 1,
+            "Date": "6/1"
+        },
+        {
+            "Date_ID": 2,
+            "Date": "6/19"
+        },
+        {
+            "Date_ID": 3,
+            "Date": "6/20"
+        },
+        {
+            "Date_ID": 4,
+            "Date": "6/21"
+        },
+        {
+            "Date_ID": 5,
+            "Date": "6/22"
+        },
+        {
+            "Date_ID": 6,
+            "Date": "6/23"
+        },
+        {
+            "Date_ID": 7,
+            "Date": "6/24"
+        },
+        {
+            "Date_ID": 8,
+            "Date": "6/29"
+        },
+        {
+            "Date_ID": 9,
+            "Date": "7/2"
+        },
+        {
+            "Date_ID": 10,
+            "Date": "7/29"
+        },
+        {
+            "Date_ID": 11,
+            "Date": "7/30"
+        },
+        {
+            "Date_ID": 12,
+            "Date": "7/31"
+        },
+        {
+            "Date_ID": 13,
+            "Date": "7/4"
+        },
+        {
+            "Date_ID": 14,
+            "Date": "8/10"
+        },
+        {
+            "Date_ID": 15,
+            "Date": "8/11"
+        },
+        {
+            "Date_ID": 16,
+            "Date": "8/12"
+        },
+        {
+            "Date_ID": 17,
+            "Date": "8/13"
+        },
+        {
+            "Date_ID": 18,
+            "Date": "8/14"
+        },
+        {
+            "Date_ID": 19,
+            "Date": "8/17"
+        },
+        {
+            "Date_ID": 20,
+            "Date": "9/12"
+        },
+        {
+            "Date_ID": 21,
+            "Date": "9/9"
+        }
+    ]
+}

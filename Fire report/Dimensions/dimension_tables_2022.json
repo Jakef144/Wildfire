@@ -1,0 +1,187 @@
+{
+    "state_dimension": [
+        {
+            "State_ID": 1,
+            "State": "AK"
+        },
+        {
+            "State_ID": 2,
+            "State": "CA"
+        },
+        {
+            "State_ID": 3,
+            "State": "ID"
+        },
+        {
+            "State_ID": 4,
+            "State": "NC"
+        },
+        {
+            "State_ID": 5,
+            "State": "NM"
+        },
+        {
+            "State_ID": 6,
+            "State": "OR"
+        },
+        {
+            "State_ID": 7,
+            "State": "TX"
+        }
+    ],
+    "gacc_dimension": [
+        {
+            "GACC_ID": 1,
+            "GACC": "AK"
+        },
+        {
+            "GACC_ID": 2,
+            "GACC": "GB"
+        },
+        {
+            "GACC_ID": 3,
+            "GACC": "NO"
+        },
+        {
+            "GACC_ID": 4,
+            "GACC": "NW"
+        },
+        {
+            "GACC_ID": 5,
+            "GACC": "SA"
+        },
+        {
+            "GACC_ID": 6,
+            "GACC": "SW"
+        }
+    ],
+    "inc_type_dimension": [],
+    "cause_dimension": [
+        {
+            "Cause_ID": 1,
+            "Cause": "H"
+        },
+        {
+            "Cause_ID": 2,
+            "Cause": "L"
+        },
+        {
+            "Cause_ID": 3,
+            "Cause": "U"
+        }
+    ],
+    "time_dimension": [
+        {
+            "Date_ID": 1,
+            "Date": "3/17"
+        },
+        {
+            "Date_ID": 2,
+            "Date": "3/30"
+        },
+        {
+            "Date_ID": 3,
+            "Date": "4/11"
+        },
+        {
+            "Date_ID": 4,
+            "Date": "4/17"
+        },
+        {
+            "Date_ID": 5,
+            "Date": "4/22"
+        },
+        {
+            "Date_ID": 6,
+            "Date": "4/7"
+        },
+        {
+            "Date_ID": 7,
+            "Date": "5/13"
+        },
+        {
+            "Date_ID": 8,
+            "Date": "6/13"
+        },
+        {
+            "Date_ID": 9,
+            "Date": "6/15"
+        },
+        {
+            "Date_ID": 10,
+            "Date": "6/17"
+        },
+        {
+            "Date_ID": 11,
+            "Date": "6/19"
+        },
+        {
+            "Date_ID": 12,
+            "Date": "6/2"
+        },
+        {
+            "Date_ID": 13,
+            "Date": "6/21"
+        },
+        {
+            "Date_ID": 14,
+            "Date": "6/25"
+        },
+        {
+            "Date_ID": 15,
+            "Date": "6/27"
+        },
+        {
+            "Date_ID": 16,
+            "Date": "6/28"
+        },
+        {
+            "Date_ID": 17,
+            "Date": "6/5"
+        },
+        {
+            "Date_ID": 18,
+            "Date": "6/6"
+        },
+        {
+            "Date_ID": 19,
+            "Date": "6/8"
+        },
+        {
+            "Date_ID": 20,
+            "Date": "6/9"
+        },
+        {
+            "Date_ID": 21,
+            "Date": "7/1"
+        },
+        {
+            "Date_ID": 22,
+            "Date": "7/17"
+        },
+        {
+            "Date_ID": 23,
+            "Date": "7/29"
+        },
+        {
+            "Date_ID": 24,
+            "Date": "7/3"
+        },
+        {
+            "Date_ID": 25,
+            "Date": "7/7"
+        },
+        {
+            "Date_ID": 26,
+            "Date": "8/30"
+        },
+        {
+            "Date_ID": 27,
+            "Date": "8/4"
+        },
+        {
+            "Date_ID": 28,
+            "Date": "9/6"
+        }
+    ]
+}

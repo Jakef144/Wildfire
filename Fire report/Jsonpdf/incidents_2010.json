@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "Long Butte",
+        "Inc._Type": "WF",
+        "GACC": "EB",
+        "State": "ID",
+        "Start Date": "21-Aug-10",
+        "Contain or_Control_Date": "3-Sep-10",
+        "Size_(Acres)": "306,113",
+        "Cause": "L",
+        "Estimated_Cost": "$ 4,225,000"
+    },
+    {
+        "Name": "Toklat",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "16-May-10",
+        "Contain or_Control_Date": "4-Jun-10",
+        "Size_(Acres)": "171,727",
+        "Cause": "L",
+        "Estimated_Cost": "$2,109,186"
+    },
+    {
+        "Name": "Jefferson",
+        "Inc._Type": "WF",
+        "GACC": "EB",
+        "State": "ID",
+        "Start Date": "13-Jul-10",
+        "Contain or_Control_Date": "17-Jul-10",
+        "Size_(Acres)": "109,436",
+        "Cause": "H",
+        "Estimated_Cost": "$ 700,819"
+    },
+    {
+        "Name": "Turquoise Lake",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "18-May-10",
+        "Contain or_Control_Date": "7-Sep-10",
+        "Size_(Acres)": "91,885",
+        "Cause": "H",
+        "Estimated_Cost": "$317,515"
+    },
+    {
+        "Name": "Big Mountain",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "2-Jun-10",
+        "Contain or_Control_Date": "2-Sep-10",
+        "Size_(Acres)": "83,746",
+        "Cause": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Pat Creek",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "25-Jun-10",
+        "Contain or_Control_Date": "30-Dec-10",
+        "Size_(Acres)": "72,692",
+        "Cause": "L",
+        "Estimated_Cost": "$11,622,393"
+    },
+    {
+        "Name": "Lone Mountain",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "29-May-10",
+        "Contain or_Control_Date": "22-Dec-10",
+        "Size_(Acres)": "51,996",
+        "Cause": "L",
+        "Estimated_Cost": "$10,044"
+    },
+    {
+        "Name": "Twitchell Canyon",
+        "Inc._Type": "WF",
+        "GACC": "EB",
+        "State": "UT",
+        "Start Date": "20-Jul-10",
+        "Contain or_Control_Date": "18-Nov-10",
+        "Size_(Acres)": "44,892",
+        "Cause": "L",
+        "Estimated_Cost": "$ 17,363,000"
+    },
+    {
+        "Name": "Bull Creek",
+        "Inc._Type": "WF",
+        "GACC": "AK",
+        "State": "AK",
+        "Start Date": "31-May-10",
+        "Contain or_Control_Date": "25-Jun-10",
+        "Size_(Acres)": "41,911",
+        "Cause": "L",
+        "Estimated_Cost": "NR"
+    }
+]

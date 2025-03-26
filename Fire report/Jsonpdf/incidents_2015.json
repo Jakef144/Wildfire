@@ -1,0 +1,462 @@
+[
+    {
+        "Name": "Tanana Area Fires",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "8/6",
+        "Size In_Acres": "498,043",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 14,049,552"
+    },
+    {
+        "Name": "Ruby Area Fires",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "7/2",
+        "Last_Report_Date": "8/4",
+        "Size In_Acres": "421,613",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 2,845,925"
+    },
+    {
+        "Name": "Soda",
+        "GACC": "GB",
+        "State": "ID",
+        "Start_Date": "8/10",
+        "Last_Report_Date": "8/23",
+        "Size In_Acres": "285,361",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 6,250,000"
+    },
+    {
+        "Name": "Sushgitit Hills",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "8/15",
+        "Size In_Acres": "270,747",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 51,000"
+    },
+    {
+        "Name": "North Star",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/13",
+        "Last_Report_Date": "11/30",
+        "Size In_Acres": "218,138",
+        "Cause*": "H",
+        "Estimated_Cost": "$ 45,000,000"
+    },
+    {
+        "Name": "Holtnakatna",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/22",
+        "Last_Report_Date": "7/6",
+        "Size In_Acres": "198,133",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Aniak Complex",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "7/4",
+        "Last_Report_Date": "7/19",
+        "Size In_Acres": "157,783",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 6,492,120"
+    },
+    {
+        "Name": "Rough",
+        "GACC": "SO",
+        "State": "CA",
+        "Start_Date": "7/31",
+        "Last_Report_Date": "10/12",
+        "Size In_Acres": "151,623",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 120,930,243"
+    },
+    {
+        "Name": "Okanogan Complex",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/14",
+        "Last_Report_Date": "9/29",
+        "Size In_Acres": "145,282",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Rock",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "8/15",
+        "Size In_Acres": "142,637",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 1,694,868"
+    },
+    {
+        "Name": "Isahultila",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "8/15",
+        "Size In_Acres": "128,617",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 10,000"
+    },
+    {
+        "Name": "Sea",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "8/8",
+        "Size In_Acres": "111,193",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 7,000"
+    },
+    {
+        "Name": "Canyon Creek Complex",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "8/12",
+        "Last_Report_Date": "10/29",
+        "Size In_Acres": "110,261",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 31,453,602"
+    },
+    {
+        "Name": "Big Mud River 1",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "8/8",
+        "Size In_Acres": "103,170",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 5,000"
+    },
+    {
+        "Name": "Cornet-Windy Ridge",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "8/11",
+        "Last_Report_Date": "10/27",
+        "Size In_Acres": "102,089",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 6,010,000"
+    },
+    {
+        "Name": "Iditarod River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/20",
+        "Last_Report_Date": "7/25",
+        "Size In_Acres": "98,183",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 282,298"
+    },
+    {
+        "Name": "Blazo",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "7/7",
+        "Size In_Acres": "96,644",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Tepee Springs",
+        "GACC": "GB",
+        "State": "ID",
+        "Start_Date": "8/12",
+        "Last_Report_Date": "10/19",
+        "Size In_Acres": "95,709",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 31,540,000"
+    },
+    {
+        "Name": "Munsatli 2",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "7/4",
+        "Last_Report_Date": "8/2",
+        "Size In_Acres": "95,679",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 6,000"
+    },
+    {
+        "Name": "Selway/Elk City/Red River\nComplex",
+        "GACC": "NR",
+        "State": "ID",
+        "Start_Date": "8/17",
+        "Last_Report_Date": "10/29",
+        "Size In_Acres": "94,921",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 16,000,000"
+    },
+    {
+        "Name": "Chelan Complex",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/14",
+        "Last_Report_Date": "9/20",
+        "Size In_Acres": "88,985",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 10,000,000"
+    },
+    {
+        "Name": "Clearwater/Municipal/Motorway\nNorth Complex",
+        "GACC": "NR",
+        "State": "ID",
+        "Start_Date": "8/10",
+        "Last_Report_Date": "9/8",
+        "Size In_Acres": "83,243",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 41,527,637"
+    },
+    {
+        "Name": "Grizzly Bear Complex",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "8/13",
+        "Last_Report_Date": "10/30",
+        "Size In_Acres": "83,148",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 20,968,610"
+    },
+    {
+        "Name": "Torment Creek",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/20",
+        "Last_Report_Date": "8/4",
+        "Size In_Acres": "81,468",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 7,000"
+    },
+    {
+        "Name": "River Complex",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "7/30",
+        "Last_Report_Date": "9/25",
+        "Size In_Acres": "77,081",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 32,678,783"
+    },
+    {
+        "Name": "Kettle Complex",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/11",
+        "Last_Report_Date": "9/27",
+        "Size In_Acres": "76,512",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Valley",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "9/12",
+        "Last_Report_Date": "10/5",
+        "Size In_Acres": "76,067",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 56,220,000"
+    },
+    {
+        "Name": "Wolverine",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "6/29",
+        "Last_Report_Date": "10/3",
+        "Size In_Acres": "72,123",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 35,000,000"
+    },
+    {
+        "Name": "Butte",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "9/9",
+        "Last_Report_Date": "9/30",
+        "Size In_Acres": "70,868",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 74,720,784"
+    },
+    {
+        "Name": "Rocky",
+        "GACC": "NO",
+        "State": "CA",
+        "Start_Date": "7/29",
+        "Last_Report_Date": "8/14",
+        "Size In_Acres": "69,438",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 46,100,000"
+    },
+    {
+        "Name": "Bear Creek",
+        "GACC": "NR",
+        "State": "MT",
+        "Start_Date": "8/12",
+        "Last_Report_Date": "10/22",
+        "Size In_Acres": "69,435",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 3,300,000"
+    },
+    {
+        "Name": "Kutokbuna Lake",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "7/2",
+        "Size In_Acres": "68,320",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 82,167"
+    },
+    {
+        "Name": "County Line 2",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "8/12",
+        "Last_Report_Date": "8/31",
+        "Size In_Acres": "67,207",
+        "Cause*": "U",
+        "Estimated_Cost": "$ 16,400,000"
+    },
+    {
+        "Name": "Three Day",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "7/7",
+        "Size In_Acres": "66,703",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Lloyd",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/24",
+        "Last_Report_Date": "8/14",
+        "Size In_Acres": "66,267",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 603,744"
+    },
+    {
+        "Name": "Carpenter Road",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/14",
+        "Last_Report_Date": "12/16",
+        "Size In_Acres": "63,972",
+        "Cause*": "H",
+        "Estimated_Cost": "$ 22,650,000"
+    },
+    {
+        "Name": "West Fork",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "7/25",
+        "Size In_Acres": "58,335",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 4,000"
+    },
+    {
+        "Name": "Dulbi River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/19",
+        "Last_Report_Date": "6/25",
+        "Size In_Acres": "56,687",
+        "Cause*": "L",
+        "Estimated_Cost": "NR"
+    },
+    {
+        "Name": "Tobatokh",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/22",
+        "Last_Report_Date": "7/1",
+        "Size In_Acres": "54,036",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 2,000"
+    },
+    {
+        "Name": "Family Peak Complex",
+        "GACC": "NR",
+        "State": "MT",
+        "Start_Date": "8/13",
+        "Last_Report_Date": "10/17",
+        "Size In_Acres": "53,890",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 4,205,000"
+    },
+    {
+        "Name": "Cougar Creek",
+        "GACC": "NW",
+        "State": "WA",
+        "Start_Date": "8/10",
+        "Last_Report_Date": "10/17",
+        "Size In_Acres": "53,534",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 23,500,000"
+    },
+    {
+        "Name": "Hardpac Creek",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "8/3",
+        "Size In_Acres": "50,482",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 3,000"
+    },
+    {
+        "Name": "Bendire Complex",
+        "GACC": "NW",
+        "State": "OR",
+        "Start_Date": "8/11",
+        "Last_Report_Date": "9/15",
+        "Size In_Acres": "49,628",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 4,820,000"
+    },
+    {
+        "Name": "Chitanana River",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/21",
+        "Last_Report_Date": "7/11",
+        "Size In_Acres": "49,540",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 1,000"
+    },
+    {
+        "Name": "Can Creek",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/1",
+        "Last_Report_Date": "7/17",
+        "Size In_Acres": "48,729",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 18,945"
+    },
+    {
+        "Name": "Glacier",
+        "GACC": "AK",
+        "State": "AK",
+        "Start_Date": "6/23",
+        "Last_Report_Date": "7/28",
+        "Size In_Acres": "47,333",
+        "Cause*": "L",
+        "Estimated_Cost": "$ 4,000"
+    }
+]

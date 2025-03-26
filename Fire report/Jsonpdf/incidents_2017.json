@@ -1,0 +1,302 @@
+[
+    {
+        "Name":"NW Oklahoma\nComplex",
+        "GACC":"SA",
+        "State":"OK",
+        "Start_Date":"3\/7",
+        "Last_Report_Date":"3\/24",
+        "Size In_Acres":"779,292",
+        "Cause*":"U",
+        "Estimated Cost":"3,200,000"
+    },
+    {
+        "Name":"Perryton",
+        "GACC":"SA",
+        "State":"TX",
+        "Start_Date":"3\/6",
+        "Last_Report_Date":"3\/13",
+        "Size In_Acres":"318,156",
+        "Cause*":"H",
+        "Estimated Cost":"NR"
+    },
+    {
+        "Name":"Thomas",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"12\/4",
+        "Last_Report_Date":"Active\ninto\n2018",
+        "Size In_Acres":"270,000",
+        "Cause*":"U",
+        "Estimated Cost":"123,836,000"
+    },
+    {
+        "Name":"Lodgepole\nComplex",
+        "GACC":"NR",
+        "State":"MT",
+        "Start_Date":"7\/20",
+        "Last_Report_Date":"8\/11",
+        "Size In_Acres":"270,000",
+        "Cause*":"U",
+        "Estimated Cost":"9,800,000"
+    },
+    {
+        "Name":"Roosters Comb",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"7\/9",
+        "Last_Report_Date":"7\/24",
+        "Size In_Acres":"218,380",
+        "Cause*":"U",
+        "Estimated Cost":"4,000,000"
+    },
+    {
+        "Name":"Chetco Bar",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"7\/12",
+        "Last_Report_Date":"10\/26",
+        "Size In_Acres":"191,125",
+        "Cause*":"L",
+        "Estimated Cost":"72,000,000"
+    },
+    {
+        "Name":"Rice Ridge",
+        "GACC":"NR",
+        "State":"MT",
+        "Start_Date":"7\/24",
+        "Last_Report_Date":"10\/17",
+        "Size In_Acres":"160,187",
+        "Cause*":"L",
+        "Estimated Cost":"49,251,000"
+    },
+    {
+        "Name":"Four Seasons\nComplex",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"7\/16",
+        "Last_Report_Date":"7\/25",
+        "Size In_Acres":"159,986",
+        "Cause*":"U",
+        "Estimated Cost":"4,573,000"
+    },
+    {
+        "Name":"West Mims",
+        "GACC":"SA",
+        "State":"GA",
+        "Start_Date":"4\/6",
+        "Last_Report_Date":"6\/29",
+        "Size In_Acres":"152,515",
+        "Cause*":"L",
+        "Estimated Cost":"45,500,000"
+    },
+    {
+        "Name":"Lefors East",
+        "GACC":"SA",
+        "State":"TX",
+        "Start_Date":"3\/7",
+        "Last_Report_Date":"3\/10",
+        "Size In_Acres":"135,000",
+        "Cause*":"H",
+        "Estimated Cost":"NR"
+    },
+    {
+        "Name":"Diamond Creek",
+        "GACC":"NW",
+        "State":"WA",
+        "Start_Date":"7\/23",
+        "Last_Report_Date":"10\/5",
+        "Size In_Acres":"128,272",
+        "Cause*":"U",
+        "Estimated Cost":"14,760,000"
+    },
+    {
+        "Name":"Central LNU\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"10\/9",
+        "Last_Report_Date":"10\/10",
+        "Size In_Acres":"110,720",
+        "Cause*":"U",
+        "Estimated Cost":"102,000,000"
+    },
+    {
+        "Name":"Sartin Draw",
+        "GACC":"NR",
+        "State":"MT",
+        "Start_Date":"8\/30",
+        "Last_Report_Date":"9\/4",
+        "Size In_Acres":"99,735",
+        "Cause*":"L",
+        "Estimated Cost":"1,500,000"
+    },
+    {
+        "Name":"Truckee",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"7\/3",
+        "Last_Report_Date":"7\/11",
+        "Size In_Acres":"98,960",
+        "Cause*":"U",
+        "Estimated Cost":"2,120,260"
+    },
+    {
+        "Name":"Tohakum 2",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"8\/29",
+        "Last_Report_Date":"7\/11",
+        "Size In_Acres":"94,221",
+        "Cause*":"L",
+        "Estimated Cost":"3,456,000"
+    },
+    {
+        "Name":"Campbell River",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"6\/26",
+        "Last_Report_Date":"10\/12",
+        "Size In_Acres":"93,520",
+        "Cause*":"L",
+        "Estimated Cost":"1,056,688"
+    },
+    {
+        "Name":"Oak",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/12",
+        "Last_Report_Date":"9\/23",
+        "Size In_Acres":"86,830",
+        "Cause*":"L",
+        "Estimated Cost":"NR"
+    },
+    {
+        "Name":"Highline",
+        "GACC":"GB",
+        "State":"ID",
+        "Start_Date":"7\/28",
+        "Last_Report_Date":"9\/21",
+        "Size In_Acres":"84,619",
+        "Cause*":"L",
+        "Estimated Cost":"2,167,864"
+    },
+    {
+        "Name":"Long Valley",
+        "GACC":"GB",
+        "State":"CA",
+        "Start_Date":"7\/11",
+        "Last_Report_Date":"7\/21",
+        "Size In_Acres":"83,733",
+        "Cause*":"U",
+        "Estimated Cost":"11,953,000"
+    },
+    {
+        "Name":"Modoc July\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"7\/24",
+        "Last_Report_Date":"8\/13",
+        "Size In_Acres":"83,120",
+        "Cause*":"U",
+        "Estimated Cost":"35,200,000"
+    },
+    {
+        "Name":"Detwiler",
+        "GACC":"SO",
+        "State":"CA",
+        "Start_Date":"7\/16",
+        "Last_Report_Date":"8\/7",
+        "Size In_Acres":"81,826",
+        "Cause*":"U",
+        "Estimated Cost":"90,000,000"
+    },
+    {
+        "Name":"White Mountain\nCreek",
+        "GACC":"AK",
+        "State":"AK",
+        "Start_Date":"7\/3",
+        "Last_Report_Date":"10\/5",
+        "Size In_Acres":"78,857",
+        "Cause*":"L",
+        "Estimated Cost":"96,310"
+    },
+    {
+        "Name":"Eclipse Complex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/15",
+        "Last_Report_Date":"10\/8",
+        "Size In_Acres":"78,698",
+        "Cause*":"U",
+        "Estimated Cost":"46,006,691"
+    },
+    {
+        "Name":"Brush Flat",
+        "GACC":"NR",
+        "State":"MT",
+        "Start_Date":"8\/31",
+        "Last_Report_Date":"9\/4",
+        "Size In_Acres":"73,797",
+        "Cause*":"L",
+        "Estimated Cost":"400,000"
+    },
+    {
+        "Name":"Brianhead",
+        "GACC":"GB",
+        "State":"UT",
+        "Start_Date":"6\/17",
+        "Last_Report_Date":"7\/24",
+        "Size In_Acres":"71,673",
+        "Cause*":"H",
+        "Estimated Cost":"3,660,000"
+    },
+    {
+        "Name":"Nena Springs",
+        "GACC":"NW",
+        "State":"OR",
+        "Start_Date":"8\/8",
+        "Last_Report_Date":"8\/29",
+        "Size In_Acres":"68,007",
+        "Cause*":"H",
+        "Estimated Cost":"8,900,000"
+    },
+    {
+        "Name":"Salmon August\nComplex",
+        "GACC":"NO",
+        "State":"CA",
+        "Start_Date":"8\/13",
+        "Last_Report_Date":"10\/4",
+        "Size In_Acres":"65,889",
+        "Cause*":"U",
+        "Estimated Cost":"39,805,700"
+    },
+    {
+        "Name":"Dry Gulch",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"7\/4",
+        "Last_Report_Date":"7\/11",
+        "Size In_Acres":"64,000",
+        "Cause*":"U",
+        "Estimated Cost":"2,700,000"
+    },
+    {
+        "Name":"Meyers",
+        "GACC":"NR",
+        "State":"MT",
+        "Start_Date":"7\/14",
+        "Last_Report_Date":"10\/13",
+        "Size In_Acres":"62,034",
+        "Cause*":"L",
+        "Estimated Cost":"32,800,000"
+    },
+    {
+        "Name":"Snowstorm",
+        "GACC":"GB",
+        "State":"NV",
+        "Start_Date":"7\/14",
+        "Last_Report_Date":"7\/15",
+        "Size In_Acres":"60,000",
+        "Cause*":"U",
+        "Estimated Cost":"482,448"
+    }
+]
