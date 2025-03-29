@@ -1,242 +1,242 @@
 [
-    {
-        "Name":"Mendocino Complex",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/27",
-        "Last_Report_Date":"9\/18",
-        "Size_Acres":"459,123",
-        "Cause":"U",
-        "Estimated_Cost":"220,000,000"
-    },
-    {
-        "Name":"Martin",
-        "GACC":"GB",
-        "State":"NV",
-        "Start_Date":"7\/5",
-        "Last_Report_Date":"7\/21",
-        "Size_Acres":"435,569",
-        "Cause":"U",
-        "Estimated_Cost":"10,000,000"
-    },
-    {
-        "Name":"Rhea",
-        "GACC":"SA",
-        "State":"OK",
-        "Start_Date":"4\/12",
-        "Last_Report_Date":"4\/26",
-        "Size_Acres":"286,196",
-        "Cause":"U",
-        "Estimated_Cost":"3,800,000"
-    },
-    {
-        "Name":"South Sugarloaf",
-        "GACC":"GB",
-        "State":"NV",
-        "Start_Date":"8\/17",
-        "Last_Report_Date":"10\/10",
-        "Size_Acres":"233,458",
-        "Cause":"L",
-        "Estimated_Cost":"20,000,000"
-    },
-    {
-        "Name":"Carr",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/23",
-        "Last_Report_Date":"8\/30",
-        "Size_Acres":"229,651",
-        "Cause":"U",
-        "Estimated_Cost":"162,289,294"
-    },
-    {
-        "Name":"Klondike",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"7\/15",
-        "Last_Report_Date":"11\/28",
-        "Size_Acres":"175,258",
-        "Cause":"L",
-        "Estimated_Cost":"104,500,000"
-    },
-    {
-        "Name":"Camp",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"11\/8",
-        "Last_Report_Date":"11\/25",
-        "Size_Acres":"153,336",
-        "Cause":"U",
-        "Estimated_Cost":"120,000,000"
-    },
-    {
-        "Name":"Goose Creek",
-        "GACC":"GB",
-        "State":"NV",
-        "Start_Date":"7\/26",
-        "Last_Report_Date":"8\/10",
-        "Size_Acres":"132,220",
-        "Cause":"U",
-        "Estimated_Cost":"7,850,000"
-    },
-    {
-        "Name":"Spring Creek",
-        "GACC":"RM",
-        "State":"CO",
-        "Start_Date":"6\/27",
-        "Last_Report_Date":"9\/6",
-        "Size_Acres":"108,045",
-        "Cause":"H",
-        "Estimated_Cost":"35,000,000"
-    },
-    {
-        "Name":"Pole Creek",
-        "GACC":"GB",
-        "State":"UT",
-        "Start_Date":"9\/6",
-        "Last_Report_Date":"10\/8",
-        "Size_Acres":"102,191",
-        "Cause":"L",
-        "Estimated_Cost":"29,100,000"
-    },
-    {
-        "Name":"Boxcar",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"6\/21",
-        "Last_Report_Date":"7\/3",
-        "Size_Acres":"100,207",
-        "Cause":"U",
-        "Estimated_Cost":"3,500,000"
-    },
-    {
-        "Name":"Grassy Ridge",
-        "GACC":"GB",
-        "State":"ID",
-        "Start_Date":"7\/26",
-        "Last_Report_Date":"8\/15",
-        "Size_Acres":"99,502",
-        "Cause":"L",
-        "Estimated_Cost":"3,000,000"
-    },
-    {
-        "Name":"Woolsey",
-        "GACC":"SO",
-        "State":"CA",
-        "Start_Date":"11\/8",
-        "Last_Report_Date":"11\/27",
-        "Size_Acres":"96,949",
-        "Cause":"U",
-        "Estimated_Cost":"56,943,320"
-    },
-    {
-        "Name":"Ferguson",
-        "GACC":"SO",
-        "State":"CA",
-        "Start_Date":"7\/13",
-        "Last_Report_Date":"8\/23",
-        "Size_Acres":"96,901",
-        "Cause":"U",
-        "Estimated_Cost":"150,000,000"
-    },
-    {
-        "Name":"County",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"6\/30",
-        "Last_Report_Date":"7\/14",
-        "Size_Acres":"90,288",
-        "Cause":"U",
-        "Estimated_Cost":"47,000,000"
-    },
-    {
-        "Name":"Avian Complex",
-        "GACC":"SA",
-        "State":"FL",
-        "Start_Date":"5\/1",
-        "Last_Report_Date":"5\/29",
-        "Size_Acres":"82,461",
-        "Cause":"U",
-        "Estimated_Cost":"10,781,364"
-    },
-    {
-        "Name":"Substation",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"7\/17",
-        "Last_Report_Date":"8\/2",
-        "Size_Acres":"78,425",
-        "Cause":"H",
-        "Estimated_Cost":"4,200,000"
-    },
-    {
-        "Name":"Grass Valley",
-        "GACC":"NW",
-        "State":"WA",
-        "Start_Date":"8\/11",
-        "Last_Report_Date":"8\/15",
-        "Size_Acres":"75,573",
-        "Cause":"U",
-        "Estimated_Cost":"875,000"
-    },
-    {
-        "Name":"Mallard",
-        "GACC":"SA",
-        "State":"TX",
-        "Start_Date":"5\/8",
-        "Last_Report_Date":"5\/20",
-        "Size_Acres":"75,530",
-        "Cause":"U",
-        "Estimated_Cost":"NR"
-    },
-    {
-        "Name":"Boylston",
-        "GACC":"NW",
-        "State":"WA",
-        "Start_Date":"7\/19",
-        "Last_Report_Date":"7\/23",
-        "Size_Acres":"71,200",
-        "Cause":"U",
-        "Estimated_Cost":"995,000"
-    },
-    {
-        "Name":"Dollar Ridge",
-        "GACC":"GB",
-        "State":"UT",
-        "Start_Date":"7\/1",
-        "Last_Report_Date":"8\/29",
-        "Size_Acres":"70,003",
-        "Cause":"U",
-        "Estimated_Cost":"22,000,000"
-    },
-    {
-        "Name":"Zitziana River",
-        "GACC":"AK",
-        "State":"AK",
-        "Start_Date":"6\/4",
-        "Last_Report_Date":"9\/7",
-        "Size_Acres":"69,332",
-        "Cause":"L",
-        "Estimated_Cost":"2,440,527"
-    },
-    {
-        "Name":"Sharps",
-        "GACC":"GB",
-        "State":"ID",
-        "Start_Date":"7\/29",
-        "Last_Report_Date":"9\/13",
-        "Size_Acres":"64,853",
-        "Cause":"H",
-        "Estimated_Cost":"9,500,000"
-    },
-    {
-        "Name":"Delta",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"9\/5",
-        "Last_Report_Date":"10\/7",
-        "Size_Acres":"63,311",
-        "Cause":"H",
-        "Estimated_Cost":"64,429,020"
-    }
+  {
+    "Name": "Mendocino Complex",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "27-Jul-18",
+    "Last_Report_Date": "9/18",
+    "Size_Acres": "459,123",
+    "Cause": "U",
+    "Estimated_Cost": "220,000,000"
+  },
+  {
+    "Name": "Martin",
+    "GACC": "GB",
+    "State": "NV",
+    "Start_Date": "05-Jul-18",
+    "Last_Report_Date": "7/21",
+    "Size_Acres": "435,569",
+    "Cause": "U",
+    "Estimated_Cost": "10,000,000"
+  },
+  {
+    "Name": "Rhea",
+    "GACC": "SA",
+    "State": "OK",
+    "Start_Date": "12-Apr-18",
+    "Last_Report_Date": "4/26",
+    "Size_Acres": "286,196",
+    "Cause": "U",
+    "Estimated_Cost": "3,800,000"
+  },
+  {
+    "Name": "South Sugarloaf",
+    "GACC": "GB",
+    "State": "NV",
+    "Start_Date": "17-Aug-18",
+    "Last_Report_Date": "10/10",
+    "Size_Acres": "233,458",
+    "Cause": "L",
+    "Estimated_Cost": "20,000,000"
+  },
+  {
+    "Name": "Carr",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "23-Jul-18",
+    "Last_Report_Date": "8/30",
+    "Size_Acres": "229,651",
+    "Cause": "U",
+    "Estimated_Cost": "162,289,294"
+  },
+  {
+    "Name": "Klondike",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "15-Jul-18",
+    "Last_Report_Date": "11/28",
+    "Size_Acres": "175,258",
+    "Cause": "L",
+    "Estimated_Cost": "104,500,000"
+  },
+  {
+    "Name": "Camp",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "08-Nov-18",
+    "Last_Report_Date": "11/25",
+    "Size_Acres": "153,336",
+    "Cause": "U",
+    "Estimated_Cost": "120,000,000"
+  },
+  {
+    "Name": "Goose Creek",
+    "GACC": "GB",
+    "State": "NV",
+    "Start_Date": "26-Jul-18",
+    "Last_Report_Date": "8/10",
+    "Size_Acres": "132,220",
+    "Cause": "U",
+    "Estimated_Cost": "7,850,000"
+  },
+  {
+    "Name": "Spring Creek",
+    "GACC": "RM",
+    "State": "CO",
+    "Start_Date": "27-Jun-18",
+    "Last_Report_Date": "9/6",
+    "Size_Acres": "108,045",
+    "Cause": "H",
+    "Estimated_Cost": "35,000,000"
+  },
+  {
+    "Name": "Pole Creek",
+    "GACC": "GB",
+    "State": "UT",
+    "Start_Date": "06-Sep-18",
+    "Last_Report_Date": "10/8",
+    "Size_Acres": "102,191",
+    "Cause": "L",
+    "Estimated_Cost": "29,100,000"
+  },
+  {
+    "Name": "Boxcar",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "21-Jun-18",
+    "Last_Report_Date": "7/3",
+    "Size_Acres": "100,207",
+    "Cause": "U",
+    "Estimated_Cost": "3,500,000"
+  },
+  {
+    "Name": "Grassy Ridge",
+    "GACC": "GB",
+    "State": "ID",
+    "Start_Date": "26-Jul-18",
+    "Last_Report_Date": "8/15",
+    "Size_Acres": "99,502",
+    "Cause": "L",
+    "Estimated_Cost": "3,000,000"
+  },
+  {
+    "Name": "Woolsey",
+    "GACC": "SO",
+    "State": "CA",
+    "Start_Date": "08-Nov-18",
+    "Last_Report_Date": "11/27",
+    "Size_Acres": "96,949",
+    "Cause": "U",
+    "Estimated_Cost": "56,943,320"
+  },
+  {
+    "Name": "Ferguson",
+    "GACC": "SO",
+    "State": "CA",
+    "Start_Date": "13-Jul-18",
+    "Last_Report_Date": "8/23",
+    "Size_Acres": "96,901",
+    "Cause": "U",
+    "Estimated_Cost": "150,000,000"
+  },
+  {
+    "Name": "County",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "30-Jun-18",
+    "Last_Report_Date": "7/14",
+    "Size_Acres": "90,288",
+    "Cause": "U",
+    "Estimated_Cost": "47,000,000"
+  },
+  {
+    "Name": "Avian Complex",
+    "GACC": "SA",
+    "State": "FL",
+    "Start_Date": "01-May-18",
+    "Last_Report_Date": "5/29",
+    "Size_Acres": "82,461",
+    "Cause": "U",
+    "Estimated_Cost": "10,781,364"
+  },
+  {
+    "Name": "Substation",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "17-Jul-18",
+    "Last_Report_Date": "8/2",
+    "Size_Acres": "78,425",
+    "Cause": "H",
+    "Estimated_Cost": "4,200,000"
+  },
+  {
+    "Name": "Grass Valley",
+    "GACC": "NW",
+    "State": "WA",
+    "Start_Date": "11-Aug-18",
+    "Last_Report_Date": "8/15",
+    "Size_Acres": "75,573",
+    "Cause": "U",
+    "Estimated_Cost": "875,000"
+  },
+  {
+    "Name": "Mallard",
+    "GACC": "SA",
+    "State": "TX",
+    "Start_Date": "08-May-18",
+    "Last_Report_Date": "5/20",
+    "Size_Acres": "75,530",
+    "Cause": "U",
+    "Estimated_Cost": "NR"
+  },
+  {
+    "Name": "Boylston",
+    "GACC": "NW",
+    "State": "WA",
+    "Start_Date": "19-Jul-18",
+    "Last_Report_Date": "7/23",
+    "Size_Acres": "71,200",
+    "Cause": "U",
+    "Estimated_Cost": "995,000"
+  },
+  {
+    "Name": "Dollar Ridge",
+    "GACC": "GB",
+    "State": "UT",
+    "Start_Date": "01-Jul-18",
+    "Last_Report_Date": "8/29",
+    "Size_Acres": "70,003",
+    "Cause": "U",
+    "Estimated_Cost": "22,000,000"
+  },
+  {
+    "Name": "Zitziana River",
+    "GACC": "AK",
+    "State": "AK",
+    "Start_Date": "04-Jun-18",
+    "Last_Report_Date": "9/7",
+    "Size_Acres": "69,332",
+    "Cause": "L",
+    "Estimated_Cost": "2,440,527"
+  },
+  {
+    "Name": "Sharps",
+    "GACC": "GB",
+    "State": "ID",
+    "Start_Date": "29-Jul-18",
+    "Last_Report_Date": "9/13",
+    "Size_Acres": "64,853",
+    "Cause": "H",
+    "Estimated_Cost": "9,500,000"
+  },
+  {
+    "Name": "Delta",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "05-Sep-18",
+    "Last_Report_Date": "10/7",
+    "Size_Acres": "63,311",
+    "Cause": "H",
+    "Estimated_Cost": "64,429,020"
+  }
 ]

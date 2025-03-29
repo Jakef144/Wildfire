@@ -1,242 +1,242 @@
 [
-    {
-        "Name":"Dixie",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/13",
-        "Contain_or_Last_Report_Date":"10\/23",
-        "Size_Acres":"963,309",
-        "Cause":"U",
-        "Estimated_Cost":"$637,428,216"
-    },
-    {
-        "Name":"Bootleg",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"7\/6",
-        "Contain_or_Last_Report_Date":"8\/13",
-        "Size_Acres":"413,717",
-        "Cause":"L",
-        "Estimated_Cost":"$100,900,000"
-    },
-    {
-        "Name":"Monument",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/31",
-        "Contain_or_Last_Report_Date":"10\/25",
-        "Size_Acres":"223,124",
-        "Cause":"L",
-        "Estimated_Cost":"$163,739,291"
-    },
-    {
-        "Name":"Caldor",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"8\/14",
-        "Contain_or_Last_Report_Date":"10\/20",
-        "Size_Acres":"221,835",
-        "Cause":"H",
-        "Estimated_Cost":"$271,147,512"
-    },
-    {
-        "Name":"River Complex",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/30",
-        "Contain_or_Last_Report_Date":"10\/24",
-        "Size_Acres":"199,359",
-        "Cause":"L",
-        "Estimated_Cost":"$95,340,595"
-    },
-    {
-        "Name":"Telegraph",
-        "GACC":"SW",
-        "State":"AZ",
-        "Start_Date":"6\/4",
-        "Contain_or_Last_Report_Date":"7\/2",
-        "Size_Acres":"180,757",
-        "Cause":"H",
-        "Estimated_Cost":"$36,400,000"
-    },
-    {
-        "Name":"Richard Spring",
-        "GACC":"NR",
-        "State":"MT",
-        "Start_Date":"8\/8",
-        "Contain_or_Last_Report_Date":"8\/20",
-        "Size_Acres":"171,130",
-        "Cause":"L",
-        "Estimated_Cost":"$6,500,000"
-    },
-    {
-        "Name":"Antelope",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"8\/1",
-        "Contain_or_Last_Report_Date":"10\/14",
-        "Size_Acres":"145,632",
-        "Cause":"U",
-        "Estimated_Cost":"$74,950,300"
-    },
-    {
-        "Name":"McFarland",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/30",
-        "Contain_or_Last_Report_Date":"9\/15",
-        "Size_Acres":"122,653",
-        "Cause":"L",
-        "Estimated_Cost":"$43,960,000"
-    },
-    {
-        "Name":"Four County",
-        "GACC":"RM",
-        "State":"KS",
-        "Start_Date":"12\/15",
-        "Contain_or_Last_Report_Date":"12\/23",
-        "Size_Acres":"121,622",
-        "Cause":"H",
-        "Estimated_Cost":"NR"
-    },
-    {
-        "Name":"Snake River\nComplex",
-        "GACC":"NR",
-        "State":"ID",
-        "Start_Date":"7\/8",
-        "Contain_or_Last_Report_Date":"8\/18",
-        "Size_Acres":"109,444",
-        "Cause":"L",
-        "Estimated_Cost":"$9,498,972"
-    },
-    {
-        "Name":"Schneider Springs",
-        "GACC":"NW",
-        "State":"WA",
-        "Start_Date":"8\/4",
-        "Contain_or_Last_Report_Date":"10\/25",
-        "Size_Acres":"107,322",
-        "Cause":"L",
-        "Estimated_Cost":"$53,955,225"
-    },
-    {
-        "Name":"Beckwourth\nComplex",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/3",
-        "Contain_or_Last_Report_Date":"9\/21",
-        "Size_Acres":"105,670",
-        "Cause":"U",
-        "Estimated_Cost":"$542,539,952"
-    },
-    {
-        "Name":"Windy",
-        "GACC":"SO",
-        "State":"CA",
-        "Start_Date":"9\/9",
-        "Contain_or_Last_Report_Date":"11\/10",
-        "Size_Acres":"97,528",
-        "Cause":"L",
-        "Estimated_Cost":"$78,421,741"
-    },
-    {
-        "Name":"McCash",
-        "GACC":"NO",
-        "State":"CA",
-        "Start_Date":"7\/31",
-        "Contain_or_Last_Report_Date":"10\/27",
-        "Size_Acres":"94,962",
-        "Cause":"L",
-        "Estimated_Cost":"$53,350,000"
-    },
-    {
-        "Name":"Cougar Peak",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"9\/7",
-        "Contain_or_Last_Report_Date":"10\/20",
-        "Size_Acres":"91,810",
-        "Cause":"U",
-        "Estimated_Cost":"$26,000,000"
-    },
-    {
-        "Name":"Johnson",
-        "GACC":"SW",
-        "State":"NM",
-        "Start_Date":"5\/20",
-        "Contain_or_Last_Report_Date":"7\/15",
-        "Size_Acres":"88,918",
-        "Cause":"L",
-        "Estimated_Cost":"$7,500,000"
-    },
-    {
-        "Name":"Boundary",
-        "GACC":"GB",
-        "State":"ID",
-        "Start_Date":"8\/10",
-        "Contain_or_Last_Report_Date":"10\/21",
-        "Size_Acres":"88,757",
-        "Cause":"L",
-        "Estimated_Cost":"$12,002,000"
-    },
-    {
-        "Name":"KNP Complex",
-        "GACC":"SO",
-        "State":"CA",
-        "Start_Date":"9\/12",
-        "Contain_or_Last_Report_Date":"12\/15",
-        "Size_Acres":"88,307",
-        "Cause":"L",
-        "Estimated_Cost":"$170,000,000"
-    },
-    {
-        "Name":"Rafael",
-        "GACC":"SW",
-        "State":"AZ",
-        "Start_Date":"6\/20",
-        "Contain_or_Last_Report_Date":"7\/13",
-        "Size_Acres":"78,065",
-        "Cause":"L",
-        "Estimated_Cost":"$11,000,000"
-    },
-    {
-        "Name":"Mescal",
-        "GACC":"SW",
-        "State":"AZ",
-        "Start_Date":"6\/1",
-        "Contain_or_Last_Report_Date":"6\/16",
-        "Size_Acres":"72,250",
-        "Cause":"H",
-        "Estimated_Cost":"$12,075,000"
-    },
-    {
-        "Name":"Cub Creek 2",
-        "GACC":"NW",
-        "State":"WA",
-        "Start_Date":"7\/16",
-        "Contain_or_Last_Report_Date":"9\/26",
-        "Size_Acres":"70,168",
-        "Cause":"H",
-        "Estimated_Cost":"$27,788,529"
-    },
-    {
-        "Name":"Devil\u2019s Knob\nComplex",
-        "GACC":"NW",
-        "State":"OR",
-        "Start_Date":"8\/3",
-        "Contain_or_Last_Report_Date":"10\/29",
-        "Size_Acres":"70,110",
-        "Cause":"L",
-        "Estimated_Cost":"NR"
-    },
-    {
-        "Name":"Tamarack",
-        "GACC":"GB",
-        "State":"NV",
-        "Start_Date":"7\/16",
-        "Contain_or_Last_Report_Date":"10\/7",
-        "Size_Acres":"68,637",
-        "Cause":"L",
-        "Estimated_Cost":"$37,000,000"
-    }
+  {
+    "Name": "Dixie",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "13-Jul-21",
+    "Contain_or_Last_Report_Date": "10/23",
+    "Size_Acres": "963,309",
+    "Cause": "U",
+    "Estimated_Cost": "$637,428,216"
+  },
+  {
+    "Name": "Bootleg",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "06-Jul-21",
+    "Contain_or_Last_Report_Date": "8/13",
+    "Size_Acres": "413,717",
+    "Cause": "L",
+    "Estimated_Cost": "$100,900,000"
+  },
+  {
+    "Name": "Monument",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "31-Jul-21",
+    "Contain_or_Last_Report_Date": "10/25",
+    "Size_Acres": "223,124",
+    "Cause": "L",
+    "Estimated_Cost": "$163,739,291"
+  },
+  {
+    "Name": "Caldor",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "14-Aug-21",
+    "Contain_or_Last_Report_Date": "10/20",
+    "Size_Acres": "221,835",
+    "Cause": "H",
+    "Estimated_Cost": "$271,147,512"
+  },
+  {
+    "Name": "River Complex",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "30-Jul-21",
+    "Contain_or_Last_Report_Date": "10/24",
+    "Size_Acres": "199,359",
+    "Cause": "L",
+    "Estimated_Cost": "$95,340,595"
+  },
+  {
+    "Name": "Telegraph",
+    "GACC": "SW",
+    "State": "AZ",
+    "Start_Date": "04-Jun-21",
+    "Contain_or_Last_Report_Date": "7/2",
+    "Size_Acres": "180,757",
+    "Cause": "H",
+    "Estimated_Cost": "$36,400,000"
+  },
+  {
+    "Name": "Richard Spring",
+    "GACC": "NR",
+    "State": "MT",
+    "Start_Date": "08-Aug-21",
+    "Contain_or_Last_Report_Date": "8/20",
+    "Size_Acres": "171,130",
+    "Cause": "L",
+    "Estimated_Cost": "$6,500,000"
+  },
+  {
+    "Name": "Antelope",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "01-Aug-21",
+    "Contain_or_Last_Report_Date": "10/14",
+    "Size_Acres": "145,632",
+    "Cause": "U",
+    "Estimated_Cost": "$74,950,300"
+  },
+  {
+    "Name": "McFarland",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "30-Jul-21",
+    "Contain_or_Last_Report_Date": "9/15",
+    "Size_Acres": "122,653",
+    "Cause": "L",
+    "Estimated_Cost": "$43,960,000"
+  },
+  {
+    "Name": "Four County",
+    "GACC": "RM",
+    "State": "KS",
+    "Start_Date": "15-Dec-21",
+    "Contain_or_Last_Report_Date": "12/23",
+    "Size_Acres": "121,622",
+    "Cause": "H",
+    "Estimated_Cost": "NR"
+  },
+  {
+    "Name": "Snake River\nComplex",
+    "GACC": "NR",
+    "State": "ID",
+    "Start_Date": "08-Jul-21",
+    "Contain_or_Last_Report_Date": "8/18",
+    "Size_Acres": "109,444",
+    "Cause": "L",
+    "Estimated_Cost": "$9,498,972"
+  },
+  {
+    "Name": "Schneider Springs",
+    "GACC": "NW",
+    "State": "WA",
+    "Start_Date": "04-Aug-21",
+    "Contain_or_Last_Report_Date": "10/25",
+    "Size_Acres": "107,322",
+    "Cause": "L",
+    "Estimated_Cost": "$53,955,225"
+  },
+  {
+    "Name": "Beckwourth\nComplex",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "03-Jul-21",
+    "Contain_or_Last_Report_Date": "9/21",
+    "Size_Acres": "105,670",
+    "Cause": "U",
+    "Estimated_Cost": "$542,539,952"
+  },
+  {
+    "Name": "Windy",
+    "GACC": "SO",
+    "State": "CA",
+    "Start_Date": "09-Sep-21",
+    "Contain_or_Last_Report_Date": "11/10",
+    "Size_Acres": "97,528",
+    "Cause": "L",
+    "Estimated_Cost": "$78,421,741"
+  },
+  {
+    "Name": "McCash",
+    "GACC": "NO",
+    "State": "CA",
+    "Start_Date": "31-Jul-21",
+    "Contain_or_Last_Report_Date": "10/27",
+    "Size_Acres": "94,962",
+    "Cause": "L",
+    "Estimated_Cost": "$53,350,000"
+  },
+  {
+    "Name": "Cougar Peak",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "07-Sep-21",
+    "Contain_or_Last_Report_Date": "10/20",
+    "Size_Acres": "91,810",
+    "Cause": "U",
+    "Estimated_Cost": "$26,000,000"
+  },
+  {
+    "Name": "Johnson",
+    "GACC": "SW",
+    "State": "NM",
+    "Start_Date": "20-May-21",
+    "Contain_or_Last_Report_Date": "7/15",
+    "Size_Acres": "88,918",
+    "Cause": "L",
+    "Estimated_Cost": "$7,500,000"
+  },
+  {
+    "Name": "Boundary",
+    "GACC": "GB",
+    "State": "ID",
+    "Start_Date": "10-Aug-21",
+    "Contain_or_Last_Report_Date": "10/21",
+    "Size_Acres": "88,757",
+    "Cause": "L",
+    "Estimated_Cost": "$12,002,000"
+  },
+  {
+    "Name": "KNP Complex",
+    "GACC": "SO",
+    "State": "CA",
+    "Start_Date": "12-Sep-21",
+    "Contain_or_Last_Report_Date": "12/15",
+    "Size_Acres": "88,307",
+    "Cause": "L",
+    "Estimated_Cost": "$170,000,000"
+  },
+  {
+    "Name": "Rafael",
+    "GACC": "SW",
+    "State": "AZ",
+    "Start_Date": "20-Jun-21",
+    "Contain_or_Last_Report_Date": "7/13",
+    "Size_Acres": "78,065",
+    "Cause": "L",
+    "Estimated_Cost": "$11,000,000"
+  },
+  {
+    "Name": "Mescal",
+    "GACC": "SW",
+    "State": "AZ",
+    "Start_Date": "01-Jun-21",
+    "Contain_or_Last_Report_Date": "6/16",
+    "Size_Acres": "72,250",
+    "Cause": "H",
+    "Estimated_Cost": "$12,075,000"
+  },
+  {
+    "Name": "Cub Creek 2",
+    "GACC": "NW",
+    "State": "WA",
+    "Start_Date": "16-Jul-21",
+    "Contain_or_Last_Report_Date": "9/26",
+    "Size_Acres": "70,168",
+    "Cause": "H",
+    "Estimated_Cost": "$27,788,529"
+  },
+  {
+    "Name": "Devil\u2019s Knob\nComplex",
+    "GACC": "NW",
+    "State": "OR",
+    "Start_Date": "03-Aug-21",
+    "Contain_or_Last_Report_Date": "10/29",
+    "Size_Acres": "70,110",
+    "Cause": "L",
+    "Estimated_Cost": "NR"
+  },
+  {
+    "Name": "Tamarack",
+    "GACC": "GB",
+    "State": "NV",
+    "Start_Date": "16-Jul-21",
+    "Contain_or_Last_Report_Date": "10/7",
+    "Size_Acres": "68,637",
+    "Cause": "L",
+    "Estimated_Cost": "$37,000,000"
+  }
 ]
