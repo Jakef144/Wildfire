@@ -1,5 +1,0 @@
-cause_code,cause_id,cause_description
-L,1,Lightning
-H,2,Human
-U,3,Unknown
-N,4,Natural (non-lightning)
